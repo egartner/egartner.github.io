@@ -82,6 +82,7 @@ hr.small {
 img::selection {
   color: white;
   background: transparent;
+  margin: 0 20px 20px 0;
 }
 img::-moz-selection {
   color: white;
