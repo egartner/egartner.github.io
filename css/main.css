@@ -93,6 +93,7 @@ img::-moz-selection {
 img {
   max-width: 100%;
   float: left;
+  padding: 0 10px 0 0;
 }
 
 .disqus-comments {
