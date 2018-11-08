@@ -114,6 +114,19 @@ img {
   margin-top: -25px;
 }
 
+/* horizontal line */
+
+.horizontal-line div {
+    background: #bcbcbc none repeat scroll 0 0;
+    height: 2px;
+    margin: 0 auto;
+    width: 77px;
+}
+.horizontal-line div.top {
+    margin-bottom: 3px;
+    width: 44px;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
