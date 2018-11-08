@@ -121,7 +121,7 @@ img {
 .horizontal-line div {
     background: #bcbcbc none repeat scroll 0 0;
     height: 2px;
-    margin: 0 auto;
+    margin: 0 auto 15px;
     width: 80px;
 }
 
